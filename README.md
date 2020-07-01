@@ -3,7 +3,7 @@ A simple project in C++ using files and structures.
 This project was given to me by my University, it was first semester project.
 ## Original Author  
 1. [Muhammad Umer Farooq (Core)](https://github.com/Lablnet)  
-
+  
 ## Requirements
 ### Admin Management
 1. Admin login
@@ -26,21 +26,25 @@ The term sap refer to ID
     git clone https://github.com/Lablnet/RIU-Automated-Quiz.git
     cd RIU-Automated-Quiz/src
     g++ -o main ./main.cpp
+    ./main
 or import project in DevC++/codeblock or in MS Visual studio and run it.
+**Default ID and password is:**
+**ID:** 19681
+**Password:** admin
 
 ## Contributions  
 Feel free to improve or add new feature,  contribute to open `PR`   or `issue`
-
+  
 ## License  
 MIT  
-
+  
 ## Support  
 Donate coffee?  
 here is the bitcoin address  
 [![Balance](https://img.balancebadge.io/btc/37x6PA4qtPu2fQnYdW5U7jztYhbchASpBV.svg)](https://img.balancebadge.io/btc/37x6PA4qtPu2fQnYdW5U7jztYhbchASpBV.svg)
 
    ```37x6PA4qtPu2fQnYdW5U7jztYhbchASpBV```  
-
+  
 Thanks you so much.
 
 ## Disclaimer
