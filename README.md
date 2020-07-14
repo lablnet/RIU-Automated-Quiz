@@ -1,6 +1,9 @@
 # Automated-Quiz
 A simple project in C++ using files and structures.
 This project was given to me by my University, it was first semester project.
+
+[![Run on Repl.it](https://repl.it/badge/github/Lablnet/RIU-Automated-Quiz)](https://repl.it/github/Lablnet/RIU-Automated-Quiz)
+
 ## Original Author  
 1. [Muhammad Umer Farooq (Core)](https://github.com/Lablnet)  
   
